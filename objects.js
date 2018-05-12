@@ -1,4 +1,4 @@
 const playlist = {
-  artist: "Adele";
-  song: "Skyfall"'
+  artist: "Adele",
+  song: "Skyfall"
 }
