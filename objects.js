@@ -1,9 +1,9 @@
 const playlist = {
-  artist: "Adele",
-  song: "Skyfall"
+  artistName: "Adele",
+  songTitle: "Skyfall"
 }
 
-function updatePlaylist(obj, key, value) {
+function updatePlaylist(playlist, artistName, songTitle) {
   return Object.assign({}, obj, {[key]: value});
 }
 
