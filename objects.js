@@ -1,6 +1,5 @@
 var playlist = {
   Adele: "Skyfall",
-  Rihanna: "Diamonds"
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
